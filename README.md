@@ -11,3 +11,8 @@ Python Basics for 3rd years
   - Pip Version Check,Upgrade and installation of Jupyter Notebook
   - Jupyter Notebook Overview
   - Python Basics(Variables,Variable Assignment types,Data Types,Operators and type with sample example on each
+
+## Day-03(05-10-2023):
+  - Markdown Format with sample examples on each
+  - Keywords,Typecasting,Input and Output Formatting with sample examples on each
+  - Conditional Statements Overview,if and if-else with sample examples on each
