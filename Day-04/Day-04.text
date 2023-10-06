@@ -1,0 +1,49 @@
+Day-04[06-10-2023]:
+===================
+	Good Morning All..
+
+	Topics:
+	=======
+		- Nestd if
+		- elif 
+		- Loops Overview
+		- for,range and while 
+
+	Task:
+	=====
+		Problem-1:
+		==========
+		Input:
+		======
+			8
+			15
+
+		Output:
+		=======
+			20F41A0508	21F41A0514			
+			20F41A0509	21F41A0513
+			20F41A0510	21F41A0512
+			20F41A0511	21F41A0511
+			20F41A0512	21F41A0510
+			20F41A0513	21F41A0509
+			20F41A0514	21F41A0508
+
+		Problem-2: [Use While]
+		==========
+		Input-1:
+		========
+			4985
+
+		Output-1:
+		=========
+			Reverse of 4985 is: 5894
+			Even Preference is: 8495
+
+		Input-2:
+		========
+			12859
+
+		Output-2:
+		=========
+			Reverse of 12859 is: 95821
+			Even Preference is: 82159
