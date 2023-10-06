@@ -16,3 +16,7 @@ Python Basics for 3rd years
   - Markdown Format with sample examples on each
   - Keywords,Typecasting,Input and Output Formatting with sample examples on each
   - Conditional Statements Overview,if and if-else with sample examples on each
+
+## Day-04(06-10-2023):
+  - Conditional Statements nested if,elif with sample examples on each
+  - Loops Overview,for,range and while with sample examples on each
