@@ -20,3 +20,9 @@ Python Basics for 3rd years
 ## Day-04(06-10-2023):
   - Conditional Statements nested if,elif with sample examples on each
   - Loops Overview,for,range and while with sample examples on each
+
+## Day-05(07-10-2023):
+  - Jumping Statements,Inner Loops with sample examples on each
+  - Practiced some hackerrank problems
+  - Functions Overview and Types
+  - Sample example on with return type and with arguments
